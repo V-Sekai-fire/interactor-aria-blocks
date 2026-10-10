@@ -13,4 +13,4 @@ It ports the GTPyhop blocks_gtn domain, after Gupta and Nau's near-optimal block
 
 ## Licence
 
-MIT, as the SPDX headers in its sources state.
+MIT. See [LICENSE](LICENSE).
